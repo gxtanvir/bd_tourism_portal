@@ -1,7 +1,4 @@
-
-<!-- This is database connection file-->
-
-<!-- This is database connection file-->
+<!-- This is database connection file Im Tanvirus-->
 
 <?php 
 include "includes/db.php";

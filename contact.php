@@ -3,7 +3,7 @@
 
  <?php
  if (isset($_POST['submit'])) {
-     $to      = "alaminazad420@gmail.com";
+     $to      = "tanvirusx@gmail.com";
      $subject = $_POST['subject'];
      $body    = $_POST['body'];
 
